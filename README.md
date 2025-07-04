@@ -2,9 +2,9 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a curated list of **topic-centric public datasets relevant to Africa**—focusing on open access, research-ready formats, and regionally meaningful insights.
+This is a curated list of **topic-centric public datasets relevant to Africa** focusing on open access, research-ready formats, and regionally meaningful insights.
 
-Datasets are sourced from national statistics offices, international organizations, humanitarian portals, and research institutes. Most are **freely accessible**, though some may require sign-up or request access.
+Datasets are sourced from national statistics offices, international organizations, humanitarian portals, and research institutes. Most are freely accessible, though some may require sign-up or request access.
 
 This project was inspired by [`Awesome Public Datasets`](https://github.com/awesomedata/awesome-public-datasets) and adapted to highlight Africa-centric resources for analysts, researchers, developers, and data enthusiasts.
 
