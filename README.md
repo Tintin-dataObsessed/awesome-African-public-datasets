@@ -52,3 +52,5 @@ This project was inspired by [`Awesome Public Datasets`](https://github.com/awes
 - ✅ [Open Africa – Pan‑African open data portal featuring data on governance, development, environment, and regionally relevant statistics.](https://open.africa/)
 - ✅ [Humanitarian Data Exchange (HDX) – Kenya – Humanitarian and development data including food security, displacement, health, and crisis indicators.](https://data.humdata.org/group/ken)
 - ✅ [Infotrak Research – Public opinion polling data on Kenyan elections, governance, social issues, and consumer confidence.](https://www.infotrakresearch.com/all-infotrak-polls/)
+- ✅ [World Statistics - Global & Regional Data Hub](https://world-statistics.org/) — A wide-ranging source for global statistics across population, economy, health, and development indicators.
+
